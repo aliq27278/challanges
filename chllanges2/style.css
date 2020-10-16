@@ -1,0 +1,93 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.main{
+max-width: 100%;
+margin: 10px;
+}
+/*.main-div{
+width: 100%;
+background-color: lightblue;
+}*/
+
+/*.header{
+	background-color: royalblue;
+	width: 675px;
+	height: 75px;
+	border-radius: 20px;
+	border: 5px solid black;
+	padding-top: 75px;
+	padding-left: 50%;
+}*/
+.header{
+	background-color: royalblue;
+	width: 100%;
+	height: 80px;
+	border-radius: 20px;
+	border: 2px solid black;
+	font-size:50px;
+	padding-top:20px;  
+	text-align: center;
+	color: white;
+
+}
+.Left-side{
+	width: 23%;
+	background-color: brown;
+	border-radius:20px;
+	border:2px solid black; 
+	height: 400px;
+	margin-top: 20px;
+	float: left;
+	position: relative;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 40px;
+	color: white;
+
+}
+.Center-side{
+	width: 50%;
+	background-color: brown;
+	border-radius:20px;
+	border:2px solid black; 
+	height: 400px;
+	margin-top: 20px;
+	float: center;
+	position: absolute;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 40px;
+	color: white;
+	margin-left: 415px;
+
+}
+.Right-side{
+	width: 23%;
+	background-color: brown;
+	border-radius:20px;
+	border:2px solid black; 
+	height: 400px;
+	margin-top: 20px;
+	float: right;
+	position: relative;
+	text-align: center;
+	padding-top: 30px;
+	font-size: 40px;
+	color: white;
+
+}
+.Bottom{
+	background-color: royalblue;
+	width: 100%;
+	height: 80px;
+	border-radius: 20px;
+	border: 2px solid black;
+	font-size:50px;
+	padding-top:20px;  
+	text-align: center;
+	margin-top: 474px;
+	color: white;
+
+}
