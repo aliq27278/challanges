@@ -53,14 +53,14 @@ background-color: lightblue;
 	border-radius:20px;
 	border:2px solid black; 
 	height: 400px;
-	margin-top: 20px;
+	margin: 15px;
 	float: center;
 	position: absolute;
 	text-align: center;
 	padding-top: 30px;
 	font-size: 40px;
 	color: white;
-	margin-left: 325px;
+	display: inline-block;
 
 }
 .Right-side{
